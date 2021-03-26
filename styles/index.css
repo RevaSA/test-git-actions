@@ -1,0 +1,1 @@
+:root{--background:#2c2c2c;--color:#639;--border:#800}.logo{border:5px dashed var(--border)}.logo__image{width:350px;height:200px;color:var(--color)}body{display:flex;justify-content:center;align-items:center;min-height:100vh;margin:0;background-color:var(--background)}
