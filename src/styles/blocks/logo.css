@@ -1,0 +1,9 @@
+.logo {
+    border: 5px dashed var(--border);
+}
+
+.logo__image {
+    width: 350px;
+    height: 200px;
+    color: var(--color);
+}
